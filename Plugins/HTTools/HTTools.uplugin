@@ -16,6 +16,11 @@
 					"ConfigFile": "DefaultHTTools.ini"
 				}
 			}
+		},
+		{
+			"Name": "HTCookAndPakTools",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
 		}
 	],
 	"Plugins": [
