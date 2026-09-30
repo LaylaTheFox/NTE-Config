@@ -121,6 +121,11 @@
 			"LoadingPhase": "PostEngineInit"
 		},
 		{
+			"Name": "CompositePropKitEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
 			"Name": "HTDialogueKitEditor",
 			"Type": "Editor",
 			"LoadingPhase": "Default"
